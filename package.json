@@ -1,0 +1,22 @@
+{
+  "name": "slotsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianacdev/slotsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianacdev/slotsJS/issues"
+  },
+  "homepage": "https://github.com/dianacdev/slotsJS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
